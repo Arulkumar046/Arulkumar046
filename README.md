@@ -15,7 +15,8 @@ Hello! I'm Arulkumar , a passionate about programming enthusiast with a keen int
   - Predict the House Price(Using ML).
 
 ## Achievements
-HackerRank Certified-Java (Basic).
+- HackerRank Certified-Java (Basic).
+  
 HackerRank Certified-Python (Basic).
 In-Plant Training Certificate(Bootstrap).
 In-Plant Training Certificate(Cyber Security).
