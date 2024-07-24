@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I'm Arulkumar
+Hello! I'm Arulkumar , a passionate about programming enthusiast with a keen interest in softwares. I love exploring new technologies and leveraging them to solve real-life problems. This GitHub profile showcases some of my projects and contributions.
 
-<!--
-**Arulkumar046/Arulkumar046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Programming Languages: Java,C,Python.
+## Projects
+Project 1: AI-Based Diabetes prediction System(Using Python).
+Project 2: Smart irrigation System(Using Arduino).
+Project 3: Predict the House Price(Using ML).
+## Achievements
+HackerRank Certified-Java (Basic).
+HackerRank Certified-Python (Basic).
+In-Plant Training Certificate(Bootstrap).
+In-Plant Training Certificate(Cyber Security).
+Workshop Certificate On Industry 4.0 and Digital Twin. 
+## Contact
+Email: mersalarul53@gmail.com
