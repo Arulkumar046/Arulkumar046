@@ -17,9 +17,13 @@ Hello! I'm Arulkumar , a passionate about programming enthusiast with a keen int
 ## Achievements
 - HackerRank Certified-Java (Basic).
   
-HackerRank Certified-Python (Basic).
-In-Plant Training Certificate(Bootstrap).
-In-Plant Training Certificate(Cyber Security).
-Workshop Certificate On Industry 4.0 and Digital Twin. 
+- HackerRank Certified-Python (Basic).
+  
+- In-Plant Training Certificate(Bootstrap).
+
+- In-Plant Training Certificate(Cyber Security).
+
+- Workshop Certificate On Industry 4.0 and Digital Twin.
+  
 ## Contact
 Email: mersalarul53@gmail.com
