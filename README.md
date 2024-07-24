@@ -7,8 +7,10 @@ Hello! I'm Arulkumar , a passionate about programming enthusiast with a keen int
 
 **Project 1:**
   - AI-Based Diabetes prediction System(Using Python).
+    
 **Project 2:**
   - Smart irrigation System(Using Arduino).
+
 **Project 3:**
   - Predict the House Price(Using ML).
 
