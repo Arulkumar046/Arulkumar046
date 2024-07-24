@@ -4,7 +4,8 @@ Hello! I'm Arulkumar , a passionate about programming enthusiast with a keen int
 ## Skills
 **Programming Languages:** Java,C,Python.
 ## Projects
-1.**Project 1:** AI-Based Diabetes prediction System(Using Python).
+**Project 1:**
+-AI-Based Diabetes prediction System(Using Python).
 2.**Project 2:** Smart irrigation System(Using Arduino).
 3.**Project 3:** Predict the House Price(Using ML).
 ## Achievements
