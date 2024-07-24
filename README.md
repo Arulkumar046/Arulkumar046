@@ -2,11 +2,11 @@
 Hello! I'm Arulkumar , a passionate about programming enthusiast with a keen interest in softwares. I love exploring new technologies and leveraging them to solve real-life problems. This GitHub profile showcases some of my projects and contributions.
 
 ## Skills
-Programming Languages: Java,C,Python.
+**Programming Languages:** Java,C,Python.
 ## Projects
-Project 1: AI-Based Diabetes prediction System(Using Python).
-Project 2: Smart irrigation System(Using Arduino).
-Project 3: Predict the House Price(Using ML).
+1.Project 1: AI-Based Diabetes prediction System(Using Python).
+2.Project 2: Smart irrigation System(Using Arduino).
+3.Project 3: Predict the House Price(Using ML).
 ## Achievements
 HackerRank Certified-Java (Basic).
 HackerRank Certified-Python (Basic).
