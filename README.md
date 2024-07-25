@@ -2,7 +2,7 @@
 Hello! I'm Arulkumar , a passionate about programming enthusiast with a keen interest in softwares. I love exploring new technologies and leveraging them to solve real-life problems. This GitHub profile showcases some of my projects and contributions.
 
 ## Skills
-**Programming Languages:** Java,C,Python.
+**Programming Languages:** Java, C, Python.
 ## Projects
 
 **Project 1:**
