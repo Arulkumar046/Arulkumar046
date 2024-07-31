@@ -44,9 +44,9 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
   - AI-predicting House Prices using Machine Learning.
 
 ## Achievements
--HackerRank certified Java-Basic.
--HackerRank certified Python-Basic.
--Workshop on Industry 4.0 and Digital Twin.
+  -HackerRank certified Java-Basic.
+  -HackerRank certified Python-Basic.
+  -Workshop on Industry 4.0 and Digital Twin.
 
 
 ## Contact
