@@ -35,11 +35,11 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 
 ## Projects
  **Project 1:**
-- AI-Based Diabetes Prediction System using Python.
+  - AI-Based Diabetes Prediction System using Python.
  **Project 2:**
-- Smart Irrigation System using Arduino.
+  - Smart Irrigation System using Arduino.
  **Project 3:**
-- AI-predicting House Prices using Machine Learning.
+  - AI-predicting House Prices using Machine Learning.
 
 ## Achievements
 -HackerRank certified Java-Basic.-
