@@ -45,7 +45,9 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 
 ## Achievements
   -HackerRank certified Java-Basic.
+  
   -HackerRank certified Python-Basic.
+  
   -Workshop on Industry 4.0 and Digital Twin.
 
 
