@@ -51,9 +51,9 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
   - Workshop on Industry 4.0 and Digital Twin.
 
 ## Experience
-  - Inplant Training (Bootstrap).
+  - Inplant Training(Bootstrap).
 
-  - Inplant Training (Cyber Security).
+  - Inplant Training(Cyber Security).
 
 
 ## Contact
