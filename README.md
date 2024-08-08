@@ -1,8 +1,8 @@
 ---
 # Hi there! 👋 I'm Arulkumar
 
-<p>Welcome to my GitHub profile! I'm passionate about web development, programming, and multimedia. Let me introduce myself and share my skills and projects with you.
-I'm a software enthusiast with a love for problem-solving and creative projects. My journey in the tech world has been exciting, and I'm always eager to learn and explore new technologies.</p>
+Welcome to my GitHub profile! I'm passionate about web development, programming, and multimedia. Let me introduce myself and share my skills and projects with you.
+I'm a software enthusiast with a love for problem-solving and creative projects. My journey in the tech world has been exciting, and I'm always eager to learn and explore new technologies.
 
 ## Skills and Technologies
 
