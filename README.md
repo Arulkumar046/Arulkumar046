@@ -47,6 +47,8 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
   - HackerRank certified Java-Basic.
   
   - HackerRank certified Python-Basic.
+
+  - Guvi certified DevOps completion.
   
   - Workshop on Industry 4.0 and Digital Twin.
 
