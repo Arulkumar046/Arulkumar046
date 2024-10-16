@@ -7,7 +7,7 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 ## Skills and Technologies
 
 - Web Development: - HTML , CSS.
-- Programming Languages: - Java , C , Python.
+- Programming Languages: - Java , C .
 - Other Tools: - GitHub, Visual Studio Code (VS Code).
   
 ## Known Languages
